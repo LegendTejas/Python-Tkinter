@@ -1,4 +1,4 @@
-# Python Tkinter Complete Course 🚀
+# Python Tkinter Complete Course 💯
 
 Welcome to the **Python Tkinter Complete Course Repository**!  
 This repository is designed as a step-by-step journey from **beginner to advanced** in building GUI applications with **Tkinter**, Python's standard GUI library.
