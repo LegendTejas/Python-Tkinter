@@ -29,7 +29,7 @@ By the end of this course, you’ll be able to confidently **design, build, and 
 ## Repository Structure
 ```
 Python-Tkinter
-|--jiol.png(just an image that we use in Part 1 and Part 2
+|--jiol.png(just an image that we use in Part 1 and Part 2)
 |--Part 1
 |--Part 2
 |--Part 3
