@@ -3,6 +3,35 @@
 Welcome to the **Python Tkinter Complete Course Repository**!  
 This repository is designed as a step-by-step journey from **beginner to advanced** in building GUI applications with **Tkinter**, Python's standard GUI library.
 
+Follow this order to study 👇
+
+- [Part 1](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%201)
+- [Part 2](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%202)
+- [Part 3](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%203)
+- [Part 4](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%204)
+- [Part 5](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%205)
+- [Part 6](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%206)
+- [Part 7](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%207)
+- [Part 8](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%208)
+- [Part 9](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%209)
+- [Part 10](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2010)
+- [Part 11](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2011)
+- [Part 12](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2012)
+- [Part 13](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2013)
+- [Part 14](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2014)
+- [Part 15](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2015)
+- [Part 16](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2016)
+- [Part 17](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2017)
+- [Part 18](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2018)
+- [Part 19](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2019)
+- [Part 20](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2020)
+- [Part 21](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2021)
+- [Part 22](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2022)
+- [Part 23](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2023)
+- [Part 24](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2024)
+- [Part 25](https://github.com/LegendTejas/Python-Tkinter/tree/main/Part%2025)
+- [Mini Projects](https://github.com/LegendTejas/Python-Tkinter/tree/main/Mini%20Projects)
+
 ---
 
 ## 📚 About the Repository
